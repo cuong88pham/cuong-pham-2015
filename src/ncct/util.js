@@ -1,5 +1,5 @@
 import device;
-import ui.view;
+import ui.View;
 
 exports.randFloat = function(low, high){
   if(high == null){

@@ -5,12 +5,11 @@
   },
   "shortName": "cuongpham2015",
   "studio": {
-    "domain": "studio.example.com",
-    "name": "Your Studio Name",
-    "stagingDomain": "staging.example.com"
+    "domain": "studio.ncct.vn",
+    "name": "NCCT",
+    "stagingDomain": "staging.ncct.vn"
   },
   "supportedOrientations": [
-    "portrait",
     "landscape"
   ],
   "title": "cuongpham2015"
