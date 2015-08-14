@@ -1,0 +1,10 @@
+.DS_Store
+build/debug/simulator/cache-worker.js
+build/debug/simulator/index.html
+build/debug/simulator/native-ios.js
+build/debug/simulator/native-ios.manifest
+build/debug/simulator/resource_source_map.json
+build/debug/simulator/spritesheets/.cache/spritercache-88da623cec5da86abed9b45dd572fe2a
+build/debug/simulator/spritesheets/map.json
+build/debug/simulator/spritesheets/spritesheetSizeMap.json
+build/debug/simulator/web-app-manifest.json
